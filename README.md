@@ -1,5 +1,3 @@
-# Labs CEH v13
-
 <!--
 NOTE POUR L'AUTEUR (invisible sur GitHub) :
 - Cette liste de labs est une base de départ (75 exercices) construite à partir d'une liste communautaire
