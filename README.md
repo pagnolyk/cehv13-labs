@@ -13,7 +13,7 @@ NOTE POUR L'AUTEUR (invisible sur GitHub) :
 Mes travaux pratiques de sécurité offensive et défensive, préparés dans le cadre du **Certified Ethical Hacker (CEH) v13**.
 Chaque lab est documenté avec ses objectifs, ses étapes, ses résultats, une analyse de la posture de sécurité et les contre-mesures associées.
 
-**Auteur :** [Ton nom] | [LinkedIn] | [E-mail]
+**Auteur :** Pagnol Yonkeu | LinkedIn : Pagnol Yonkeu | pagnolyonkeu@gmail.com
 
 > **Avertissement.** Tous les tests sont réalisés sur du matériel personnel, des machines virtuelles ou des environnements de lab autorisés.
 > Aucune action n'est menée sur des réseaux ou des systèmes appartenant à des tiers. Les valeurs de mots de passe, SSID et adresses présentes dans ce dépôt sont fictives et propres au lab.
