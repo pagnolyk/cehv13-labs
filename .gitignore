@@ -1,0 +1,18 @@
+# Captures réseau (peuvent contenir du trafic de tiers)
+*.pcap
+*.pcapng
+*.cap
+
+# Secrets et clés
+*.key
+*.pem
+*.env
+.env*
+
+# Fichiers temporaires et système
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
